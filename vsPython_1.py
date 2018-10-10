@@ -7,3 +7,5 @@ def least_diff(a,b,c):
     return min(diff1,diff2,diff3)
 x = least_diff(5,4,1)
 print(x)
+
+)
